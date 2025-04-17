@@ -8,4 +8,5 @@ TESSLightkurveDenoise is a lightweight pipeline that downloads TESS data, extrac
 
 # How to
 Just import all the functionalities into your notebook and you're good to go
+
 `from LCExtrac import *`
